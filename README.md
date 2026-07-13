@@ -5,7 +5,8 @@ Practical experiments demostrating  the geometric foundations how linear algebra
 * **Linear Transformations**: using matrix operations to project data in to lower dimensions for visualization.
 * **Cosine Similarity**: Calculating semantic relationships between data points via vector geometry.
 ## Technologies:
-*Python
-*Pytorch
-*Matpolib
-*NetworkX
+* Python
+* Pytorch
+* Matpolib
+* NetworkX
+* spacy
